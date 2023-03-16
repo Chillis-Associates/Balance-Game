@@ -27,7 +27,7 @@ Check the operation of the implemented systems.
 lack of concrete objectives can overwhelm the development team, 
 causing a lack of motivation. 
 It should be noted that this planning does not include the additional time spent for 
-carry out the first version of the GDD and bring together the four members that form the 
+carry out the first version of the game and bring together the four members that form the 
 Development team. 
 
 
